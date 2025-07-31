@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 💻 I am a Ph.D. candidate in Computer Science in Changsha, China. I have done it Masters/MPhil and Bachelor in Computer Science. My Research field is NLP, Data Mining, Machine Learning. I have more than 5 Years of Professional Experience in Web Design & Development (HTML, CSS, Bootstrap, Asp Net, Word press). Also, I'm a specialist in Video Editing and Graphic Design.
+- 💻 Ph.D. in Natural Language Processing (Central South University, China), with over 6 years of research and development experience in NLP, Machine Learning, and Data Science. Specializing in sentiment analysis, multimodal NLP, and AI-driven healthcare solutions. Previously served as Research Associate and later Team Lead at the Predictive Analytics Lab, National Center in Big Data and Cloud Computing (NCBC), where I led machine learning projects addressing critical healthcare issues such as infant/maternal mortality, tuberculosis, and cancer diagnostics. I have published 10 peer-reviewed articles (combined Impact Factor ~35) and regularly review for leading journals (ACM, IEEE, Elsevier, Springer). Technical expertise includes Python, Django, TensorFlow, PyTorch, scikit-learn, SQL, Java, and C# (.Net).
 
 
 - 👨‍💻 I’m currently working on Machine Learning, Deep Learning  
